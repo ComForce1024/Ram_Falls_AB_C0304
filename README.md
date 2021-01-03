@@ -2,7 +2,7 @@
 
 Ram Falls Map Coordinates: 52.08676212,-115.85602976
 
-[OurAirports](https://ourairports.com/airports/CA-0304/ | 
+[OurAirports](https://ourairports.com/airports/CA-0304/) | 
 [Google Maps](https://www.google.com/maps/place/52%C2%B005'00.5%22N+115%C2%B050'59.3%22W/@52.0870285,-115.8565481,710m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d52.08348!4d-115.84981) | 
 [Bing Maps](https://www.bing.com/maps?osid=81f4fa54-ed44-47aa-929d-ea183f2da7bb&cp=52.086982~-115.854271&lvl=16&style=h&v=2&sV=2&form=S00027)
 
