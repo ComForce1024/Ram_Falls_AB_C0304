@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/force1024-airport-c0304-ram-falls/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132493640550584603
+    },
+    {
+      "path": "scenery/c0304-airport.bgl",
+      "size": 163176,
+      "date": 132495443632999899
+    },
+    {
+      "path": "scenery/TREES_WEST.BGL",
+      "size": 2509,
+      "date": 132495443633158162
+    }
+  ]
+}

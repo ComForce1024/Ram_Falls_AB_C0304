@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08631897469753" lon="-115.85077492689427" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{399031B3-9551-42CB-AFF6-18EFF6D8E070}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08631977985671" lon="-115.85063927950374" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{399031B3-9551-42CB-AFF6-18EFF6D8E070}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08635806017787" lon="-115.85074498140995" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{399031B3-9551-42CB-AFF6-18EFF6D8E070}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08694105565893" lon="-115.84813788701635" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{07F0F212-3BC6-45C8-9C0B-A0B0B680E90C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08696169760022" lon="-115.84856257250537" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A07145DD-9FD6-48EA-85AD-A62DDF32F624}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08697136111266" lon="-115.84843038878103" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7D2DAE8-37A9-4BE3-BCBB-3430C6E597FE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08697759042979" lon="-115.84813073317089" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4F460367-2D3B-46F2-8225-CBEC56300F3C}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08700828117364" lon="-115.85085164702831" alt="5.99898604667123" pitch="0.000000" bank="0.000000" heading="90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{AE075B92-DF21-4465-8AB5-6ED2C20DCADF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Loadings...-->
+	<SceneryObject lat="52.08700956916942" lon="-115.85083885743424" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="90.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7E301F43-0D18-47F8-9288-0A60D2F97AB7}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="52.08695411559392" lon="-115.85088942483742" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Asobo Savage Cub" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="52.08713590282199" lon="-115.86364934639448" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Asobo XCub" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="52.08667734533890" lon="-115.86385474240657" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-48.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="BlackBear" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="52.08658069209840" lon="-115.85046077103732" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<Airport country="Canada" state="Alberta" name="Ram Falls" ident="C0304" lat="52.08676722984610" lon="-115.85566368565711" alt="1630.68000000000006" magvar="18.000000" trafficScalar="1.000000" airportTestRadius="659.99933039910309" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="52.08690442232495" lon="-115.84996942012393" heading="180.000000" radius="5.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="52.08691688438250" lon="-115.85040075416835" heading="180.000000" radius="5.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="52.08691762399631" lon="-115.85056193030930" heading="180.000000" radius="5.000000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="52.08713629951654" lon="-115.86382557916578" heading="180.000000" radius="5.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="4" type="RAMP_GA_SMALL" lat="52.08713428726006" lon="-115.86399955805469" heading="180.000000" radius="5.000000" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiName index="0" name=""/>
+		<Runway lat="52.08684616563103" lon="-115.85680943079409" alt="1620.68000000000006" heading="91.48381805419922" length="1005.84002685546875" width="30.47999954223633" patternAltitude="1935.47998046875000" surface="{7BFBB0B3-69B6-412A-A316-AC50CAED3798}" transparent="FALSE" number="08" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="TRUE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.08695715276411" lon="-115.86403239354151" alt="0.00000000000000" heading="90.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="52.08673076960444" lon="-115.84962297950504" alt="0.00000000000000" heading="270.00000000000000"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	</Airport>
+</FSData>
+
