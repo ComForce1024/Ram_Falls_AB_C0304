@@ -1,4 +1,4 @@
-# Ram_Falls_AB_C0304
+# Airport - Ram Falls, AB (C0304)
 
 Ram Falls Map Coordinates: 52.08676212,-115.85602976
 
